@@ -2,4 +2,4 @@
 el pato yoni
 Mi primer repositorio
 
-I love chocotorta
+I love :chocotorta:, :dog:
