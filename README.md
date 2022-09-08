@@ -2,5 +2,5 @@
 el pato yoni
 Mi primer repositorio
 
-I love :chocotorta:, :dog:
-I love :hielo:. :ice:
+I love :chocotorta:, :dog:, :ice:
+ 
