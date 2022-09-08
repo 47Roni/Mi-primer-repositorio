@@ -4,3 +4,4 @@ Mi primer repositorio
 
 I love :chocotorta:, :dog:, :pizza:
 I love :apple:, :orange:
+:lemon:, :soccer:
